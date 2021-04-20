@@ -1,7 +1,7 @@
 import { SET_VISUALIZATION_COUNT } from './actionTypes'
-import { State, VisualizationActionTypes } from './types'
+import { VisualizationActionTypes } from './types'
 
-const initialState: State = {
+const initialState = {
   count: 0,
 }
 

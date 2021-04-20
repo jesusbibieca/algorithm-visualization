@@ -3,7 +3,7 @@ import { NavLink } from 'react-router-dom'
 
 export const Navbar: React.FC = () => (
   <nav>
-    <div className="nav-wrapper cyan darken-1 px1">
+    <div className="nav-wrapper teal lighten-1 px1">
       <NavLink to="/" className="brand-logo">
         Algorithms Visualization
       </NavLink>
